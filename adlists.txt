@@ -1,1 +1,4 @@
 https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
+https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Malware
+https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Malware-Scam-Typo
+https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
