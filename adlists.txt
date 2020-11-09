@@ -1,1 +1,1 @@
-https://github.com/ShadowWhisperer/BlockLists/blob/master/Lists/Ads
+https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
